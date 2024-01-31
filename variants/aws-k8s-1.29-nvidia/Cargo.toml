@@ -32,7 +32,7 @@ included-packages = [
     # nvidia
     "nvidia-container-toolkit",
     "nvidia-k8s-device-plugin",
-    "kmod-6.1-nvidia-tesla-535",
+    "kmod-6.1-nvidia-tesla-470",
 ]
 kernel-parameters = [
     "console=tty0",
